@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Find the missing term in an Arithmetic Progression/1.0.0": {
+        "runtime": {
+          "Find the missing term in an Arithmetic Progression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find the missing term in an Arithmetic Progression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
