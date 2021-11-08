@@ -1,0 +1,15 @@
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/bin/Debug/net5.0/Your order, please.deps.json
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/bin/Debug/net5.0/Your order, please.runtimeconfig.json
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/bin/Debug/net5.0/Your order, please.runtimeconfig.dev.json
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/bin/Debug/net5.0/Your order, please.dll
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/bin/Debug/net5.0/ref/Your order, please.dll
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/bin/Debug/net5.0/Your order, please.pdb
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/Your order, please.csproj.AssemblyReference.cache
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/Your order, please.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/Your order, please.AssemblyInfoInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/Your order, please.AssemblyInfo.cs
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/Your order, please.csproj.CoreCompileInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/Your order, please.dll
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/ref/Your order, please.dll
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/Your order, please.pdb
+/Users/ravdi/CodeWars/6Kyu/Your order, please/Your order, please/obj/Debug/net5.0/Your order, please.genruntimeconfig.cache

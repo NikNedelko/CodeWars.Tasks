@@ -1,0 +1,15 @@
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/bin/Debug/net5.0/Multiples of 3 or 5.deps.json
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/bin/Debug/net5.0/Multiples of 3 or 5.runtimeconfig.json
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/bin/Debug/net5.0/Multiples of 3 or 5.runtimeconfig.dev.json
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/bin/Debug/net5.0/Multiples of 3 or 5.dll
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/bin/Debug/net5.0/ref/Multiples of 3 or 5.dll
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/bin/Debug/net5.0/Multiples of 3 or 5.pdb
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/Multiples of 3 or 5.csproj.AssemblyReference.cache
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/Multiples of 3 or 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/Multiples of 3 or 5.AssemblyInfoInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/Multiples of 3 or 5.AssemblyInfo.cs
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/Multiples of 3 or 5.csproj.CoreCompileInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/Multiples of 3 or 5.dll
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/ref/Multiples of 3 or 5.dll
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/Multiples of 3 or 5.pdb
+/Users/ravdi/CodeWars/6Kyu/Multiples of 3 or 5/Multiples of 3 or 5/obj/Debug/net5.0/Multiples of 3 or 5.genruntimeconfig.cache

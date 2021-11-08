@@ -1,0 +1,15 @@
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/bin/Debug/net5.0/Sum of Digits - Digital Root.deps.json
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/bin/Debug/net5.0/Sum of Digits - Digital Root.runtimeconfig.json
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/bin/Debug/net5.0/Sum of Digits - Digital Root.runtimeconfig.dev.json
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/bin/Debug/net5.0/Sum of Digits - Digital Root.dll
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/bin/Debug/net5.0/ref/Sum of Digits - Digital Root.dll
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/bin/Debug/net5.0/Sum of Digits - Digital Root.pdb
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/Sum of Digits - Digital Root.csproj.AssemblyReference.cache
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/Sum of Digits - Digital Root.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/Sum of Digits - Digital Root.AssemblyInfoInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/Sum of Digits - Digital Root.AssemblyInfo.cs
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/Sum of Digits - Digital Root.csproj.CoreCompileInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/Sum of Digits - Digital Root.dll
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/ref/Sum of Digits - Digital Root.dll
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/Sum of Digits - Digital Root.pdb
+/Users/ravdi/CodeWars/6Kyu/Sum of Digits - Digital Root/Sum of Digits - Digital Root/obj/Debug/net5.0/Sum of Digits - Digital Root.genruntimeconfig.cache

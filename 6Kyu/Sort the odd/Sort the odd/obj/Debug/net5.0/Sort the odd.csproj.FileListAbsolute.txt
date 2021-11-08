@@ -1,0 +1,15 @@
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/bin/Debug/net5.0/Sort the odd.deps.json
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/bin/Debug/net5.0/Sort the odd.runtimeconfig.json
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/bin/Debug/net5.0/Sort the odd.runtimeconfig.dev.json
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/bin/Debug/net5.0/Sort the odd.dll
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/bin/Debug/net5.0/ref/Sort the odd.dll
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/bin/Debug/net5.0/Sort the odd.pdb
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/Sort the odd.csproj.AssemblyReference.cache
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/Sort the odd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/Sort the odd.AssemblyInfoInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/Sort the odd.AssemblyInfo.cs
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/Sort the odd.csproj.CoreCompileInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/Sort the odd.dll
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/ref/Sort the odd.dll
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/Sort the odd.pdb
+/Users/ravdi/CodeWars/6Kyu/Sort the odd/Sort the odd/obj/Debug/net5.0/Sort the odd.genruntimeconfig.cache

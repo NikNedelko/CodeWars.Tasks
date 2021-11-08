@@ -1,0 +1,15 @@
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/Does my number look big in this.csproj.AssemblyReference.cache
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/Does my number look big in this.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/Does my number look big in this.AssemblyInfoInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/Does my number look big in this.AssemblyInfo.cs
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/Does my number look big in this.csproj.CoreCompileInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/bin/Debug/net5.0/Does my number look big in this.deps.json
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/bin/Debug/net5.0/Does my number look big in this.runtimeconfig.json
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/bin/Debug/net5.0/Does my number look big in this.runtimeconfig.dev.json
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/bin/Debug/net5.0/Does my number look big in this.dll
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/bin/Debug/net5.0/ref/Does my number look big in this.dll
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/bin/Debug/net5.0/Does my number look big in this.pdb
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/Does my number look big in this.dll
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/ref/Does my number look big in this.dll
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/Does my number look big in this.pdb
+/Users/ravdi/CodeWars/6Kyu/Does my number look big in this/Does my number look big in this/obj/Debug/net5.0/Does my number look big in this.genruntimeconfig.cache
