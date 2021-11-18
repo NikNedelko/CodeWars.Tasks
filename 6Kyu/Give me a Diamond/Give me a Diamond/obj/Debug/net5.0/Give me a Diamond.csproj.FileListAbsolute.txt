@@ -1,0 +1,15 @@
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/bin/Debug/net5.0/Give me a Diamond.deps.json
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/bin/Debug/net5.0/Give me a Diamond.runtimeconfig.json
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/bin/Debug/net5.0/Give me a Diamond.runtimeconfig.dev.json
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/bin/Debug/net5.0/Give me a Diamond.dll
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/bin/Debug/net5.0/ref/Give me a Diamond.dll
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/bin/Debug/net5.0/Give me a Diamond.pdb
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/Give me a Diamond.csproj.AssemblyReference.cache
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/Give me a Diamond.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/Give me a Diamond.AssemblyInfoInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/Give me a Diamond.AssemblyInfo.cs
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/Give me a Diamond.csproj.CoreCompileInputs.cache
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/Give me a Diamond.dll
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/ref/Give me a Diamond.dll
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/Give me a Diamond.pdb
+/Users/ravdi/CodeWars/6Kyu/Give me a Diamond/Give me a Diamond/obj/Debug/net5.0/Give me a Diamond.genruntimeconfig.cache

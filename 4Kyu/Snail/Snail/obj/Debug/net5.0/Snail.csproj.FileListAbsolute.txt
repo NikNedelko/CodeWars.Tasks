@@ -1,0 +1,15 @@
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/bin/Debug/net5.0/Snail.deps.json
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/bin/Debug/net5.0/Snail.runtimeconfig.json
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/bin/Debug/net5.0/Snail.runtimeconfig.dev.json
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/bin/Debug/net5.0/Snail.dll
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/bin/Debug/net5.0/ref/Snail.dll
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/bin/Debug/net5.0/Snail.pdb
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/Snail.csproj.AssemblyReference.cache
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/Snail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/Snail.AssemblyInfoInputs.cache
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/Snail.AssemblyInfo.cs
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/Snail.csproj.CoreCompileInputs.cache
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/Snail.dll
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/ref/Snail.dll
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/Snail.pdb
+/Users/ravdi/CodeWars/4Kyu/Snail/Snail/obj/Debug/net5.0/Snail.genruntimeconfig.cache

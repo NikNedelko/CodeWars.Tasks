@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Mexican Wave/1.0.0": {
+        "runtime": {
+          "Mexican Wave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mexican Wave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

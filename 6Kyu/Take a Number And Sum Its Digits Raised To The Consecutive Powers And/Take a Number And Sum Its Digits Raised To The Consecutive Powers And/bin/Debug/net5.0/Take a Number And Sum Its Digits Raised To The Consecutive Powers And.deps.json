@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Take a Number And Sum Its Digits Raised To The Consecutive Powers And/1.0.0": {
+        "runtime": {
+          "Take a Number And Sum Its Digits Raised To The Consecutive Powers And.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Take a Number And Sum Its Digits Raised To The Consecutive Powers And/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
