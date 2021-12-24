@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+
 namespace Snail
 {
     class Program
@@ -68,6 +69,7 @@ namespace Snail
             int[,] newArray = new int[array.Length, array.Length];
             int[] result = new int[newArray.Length];
             int helper = 0;
+            
             if (array.Length < 2)
             {
                 try
@@ -81,6 +83,7 @@ namespace Snail
                 }
 
             }
+            
             for (int i = 0, j = 0, k = 0; i < array.Length * array.Length; i++, k++)
             {
 
